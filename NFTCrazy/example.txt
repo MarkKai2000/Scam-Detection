@@ -1,0 +1,33 @@
+AppCrazy Deformation Result
+ori_appname:          CryptoPunk
+ori_packagename:     False
+
+Squatting Generation Models       Squatting Name
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+vowel_character_deletion                 cryptpunk
+vowel_character_deletion                 cryptopnk
+vowel_character_insertion                cryptaopunk
+vowel_character_insertion                crypteopunk
+vowel_character_insertion                cryptoopunk
+vowel_character_insertion                cryptiopunk
+vowel_character_insertion                cryptuopunk
+vowel_character_insertion                cryptopaunk
+vowel_character_insertion                cryptopeunk
+vowel_character_insertion                cryptopounk
+vowel_character_insertion                cryptopiunk
+vowel_character_insertion                cryptopuunk
+vowel_character_substitution             cryptapunk
+vowel_character_substitution             cryptepunk
+vowel_character_substitution             cryptipunk
+vowel_character_substitution             cryptupunk
+vowel_character_substitution             cryptopank
+vowel_character_substitution             cryptopenk
+vowel_character_substitution             cryptoponk
+vowel_character_substitution             cryptopink
+misspelling_mistakes_substition          kryptopunk
+misspelling_mistakes_substition          crybtopunk
+misspelling_mistakes_substition          crybtobunk
+misspelling_mistakes_substition          crypt0punk
+misspelling_mistakes_substition          cryptobunk
+misspelling_mistakes_substition          cryptopumk
+misspelling_mistakes_substition          cryptopunc
